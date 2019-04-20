@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My experience building my first Ruby project "
-date:       2019-04-20 11:48:30 +0000
+date:       2019-04-20 07:48:30 -0400
 permalink:  my_experience_building_my_first_ruby_project
 ---
 
