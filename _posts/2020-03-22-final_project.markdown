@@ -10,9 +10,7 @@ In my final project, I was able to build a web application where users can post 
 projects I learned so much working on this one. The user have to create an account in order to post a listing which will 
 then be visible to anyone checking the web application. 
 
-To be able to create an account, the user has to enter a few information about himself such as his name, a username  
-and a password. He is also required to enter his contact information to allow anybody who’s interested in one of his 
-listing to reach out to him. 
+To be able to create an account, the user has to enter a few information about himself such as his name, a username and a password. He is also required to enter his contact information to allow anybody who’s interested in one of his isting to reach out to him. 
 
 After successfully creating an account the user can post an item for sell. He will be redirected to a form by clicking on 
 one of the links available at homepage, where he can enter various information about the product that he is selling, 
