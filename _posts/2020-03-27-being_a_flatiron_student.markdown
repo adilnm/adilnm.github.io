@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Being a Flatiron student"
-date:       2020-03-27 12:36:00 +0000
+title:      "Being a Flatiron Student"
+date:       2020-03-27 08:36:01 -0400
 permalink:  being_a_flatiron_student
 ---
 
